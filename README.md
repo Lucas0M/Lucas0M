@@ -97,7 +97,7 @@ Besides programming, I also work with **video editing for social media platforms
 
 ### 👀 Profile Views
 
-![](https://visitcount.itsvg.in/api?id=Lucas0M&icon=5&color=12)
+<img src="https://komarev.com/ghpvc/?username=Lucas0M&color=1f6feb&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 

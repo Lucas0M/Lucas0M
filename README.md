@@ -14,7 +14,7 @@
 
 ---
 
-# 💫 About Me!
+# 💫 About Me
 
 Hi! My name is **Lucas Macarini** and I'm passionate about **technology, programming and digital creation**.
 
